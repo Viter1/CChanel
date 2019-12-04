@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.fondo{
+	-fx-background-color: linear-gradient(#3C3B3F, #605C3C);
+}
+
+.letra{
+	 -fx-font-family: 'Ubuntu-Bold'; 
+}
+
+
+.pie{
+	-fx-background-color: orange;
+}
+
+.boton{
+	-fx-background-color: orange;
+	-fx-title-side: "holas";
+	
+}
+
+.boton:hover {
+  -fx-background-color: red; /* Green */
+  -fx-color: white;
+}
+
+.imagen{
+	-fx-background-image:url("papaya.jpg");
+	-fx-background-size:100%;
+	-fx-background-repeat:no-repeat;
+}
+
