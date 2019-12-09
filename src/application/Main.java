@@ -15,6 +15,12 @@ import javafx.scene.text.Font;
  * 
  * @author viter1
  * @see ControladorVentana
+ * @version 1.0
+ * 
+ * --
+ * Este programa lo utilizamos como diseño de una ventana con dos botones con los nombre de 
+ * Live y Die que el boton live nos muestra otra ventana con una foto a nuestra eleccion
+ * y el boton Die cierra nuestra ventana y finaliza el programa
  *
  */
 
